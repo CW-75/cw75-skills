@@ -1,7 +1,10 @@
-# ai-memory-storager
+---
+name: ai-memory-storager
+description: >-
+  A skill for AI agents to manage persistent memory using Obsidian vaults with a MEMORY.md Map of Content (MOC) that connects to AGENTS.md for work progress tracking. This skill enforces wikilink-based navigation and indexing for Obsidian compatibility.
+---
 
-## Description
-A skill for AI agents to manage persistent memory using Obsidian vaults with a `MEMORY.md` Map of Content (MOC) that connects to `AGENTS.md` for work progress tracking. This skill enforces wikilink-based navigation and indexing for Obsidian compatibility.
+# ai-memory-storager
 
 ## Purpose
 - Configure and maintain a `MEMORY.md` file as a Map of Content (MOC) for an Obsidian vault
