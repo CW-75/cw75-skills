@@ -106,3 +106,6 @@ tags:
 ---
 ```
 This structured metadata ensures that indexers and context graphs can dynamically query and group related memory fragments efficiently.
+
+### Optional Integrations (Bridge Rules)
+- **If `dtc-manager` is present in the project:** When updating `MEMORY.md` or creating vault notes, you MUST adhere to its token-efficient tool strategies. Use precise file-editing tools (e.g., `replace_file_content` or `multi_replace_file_content`) to add wikilinks, rather than reading and rewriting the entire MOC file.
